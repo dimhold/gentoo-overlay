@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+<repo quality="experimental" status="unofficial">
+<name><![CDATA[dimhold]]></name>
+<description lang="en"><![CDATA[dimhold's Gentoo Overlay]]></description>
+<homepage>https://github.com/dimhold/gentoo-overlay</homepage>
+<owner type="person">
+<email>dimhold@gmail.com</email>
+<name><![CDATA[dimhold]]></name>
+</owner>
+<source type="git">git://github.com/dimhold/gentoo-overlay.git</source>
+<source type="git">https://github.com/dimhold/gentoo-overlay.git</source>
+<feed>https://github.com/dimhold/gentoo-overlay/commits/master.atom</feed>
+</repo>
+</repositories>
